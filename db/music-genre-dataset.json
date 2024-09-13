@@ -1,0 +1,608 @@
+[
+  {
+    "Genre": "Pop",
+    "Origin Year": "1950s",
+    "Description": "Commercially recorded music often characterized by catchy melodies",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Rock",
+    "Origin Year": "1950s",
+    "Description": "Guitar-driven music with strong rhythms and often rebellious themes",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Hip Hop",
+    "Origin Year": "1970s",
+    "Description": "Music that consists of stylized rhythmic music accompanied by rapping",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "R&B",
+    "Origin Year": "1940s",
+    "Description": "Rhythm and blues music combining jazz, gospel, and blues",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Country",
+    "Origin Year": "1920s",
+    "Description": "Music often focusing on rural life, relationships, and storytelling",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Electronic Dance Music (EDM)",
+    "Origin Year": "1980s",
+    "Description": "Electronic music produced primarily for nightclubs and festivals",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Jazz",
+    "Origin Year": "1910s",
+    "Description": "Improvisational music characterized by swing and blue notes",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Classical",
+    "Origin Year": "1750s",
+    "Description": "Formal, often orchestral music following Western musical traditions",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Blues",
+    "Origin Year": "1870s",
+    "Description": "African-American music characterized by call and response patterns and blue notes",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Reggae",
+    "Origin Year": "1960s",
+    "Description": "Music characterized by offbeat rhythms and socially conscious lyrics",
+    "Popular in Country": "Jamaica"
+  },
+  {
+    "Genre": "Folk",
+    "Origin Year": "Early 20th century",
+    "Description": "Traditional music that often tells stories of common people",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Metal",
+    "Origin Year": "1960s",
+    "Description": "Loud, aggressive rock music with distorted guitars and powerful vocals",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Punk",
+    "Origin Year": "1970s",
+    "Description": "Fast-paced, aggressive rock music often with political themes",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Indie",
+    "Origin Year": "1980s",
+    "Description": "Music produced independently from commercial record labels",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Soul",
+    "Origin Year": "1950s",
+    "Description": "African-American music genre combining elements of gospel and rhythm and blues",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Funk",
+    "Origin Year": "1960s",
+    "Description": "Music style characterized by a strong rhythm section groove",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Disco",
+    "Origin Year": "1970s",
+    "Description": "Dance music characterized by four-on-the-floor beats and orchestral sounds",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Gospel",
+    "Origin Year": "Early 20th century",
+    "Description": "Christian music rooted in the historical African-American church",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Alternative Rock",
+    "Origin Year": "1980s",
+    "Description": "Rock music that originated from the independent music underground",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Grunge",
+    "Origin Year": "1980s",
+    "Description": "Alternative rock subgenre characterized by distorted electric guitars",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Techno",
+    "Origin Year": "1980s",
+    "Description": "Electronic dance music characterized by a repetitive four on the floor beat",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "House",
+    "Origin Year": "1980s",
+    "Description": "Electronic dance music characterized by repetitive 4/4 beats and synthesized basslines",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "K-Pop",
+    "Origin Year": "1990s",
+    "Description": "Popularized Korean pop music featuring catchy melodies and synchronized dancing",
+    "Popular in Country": "South Korea"
+  },
+  {
+    "Genre": "J-Pop",
+    "Origin Year": "1990s",
+    "Description": "Japanese pop music characterized by its upbeat melodies and catchy hooks",
+    "Popular in Country": "Japan"
+  },
+  {
+    "Genre": "Salsa",
+    "Origin Year": "1960s",
+    "Description": "Upbeat Latin dance music with Afro-Cuban roots",
+    "Popular in Country": "Cuba"
+  },
+  {
+    "Genre": "Rap",
+    "Origin Year": "1970s",
+    "Description": "Rhythmic vocal style of hip hop music",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Dubstep",
+    "Origin Year": "1990s",
+    "Description": "Electronic dance music characterized by emphasised syncopated percussive patterns",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Trance",
+    "Origin Year": "1990s",
+    "Description": "Electronic dance music characterized by a tempo of 125-150 BPM and repeating melodic phrases",
+    "Popular in Country": "Germany"
+  },
+  {
+    "Genre": "Ambient",
+    "Origin Year": "1970s",
+    "Description": "Genre of music that emphasizes tone and atmosphere over traditional musical structure",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "New Wave",
+    "Origin Year": "1970s",
+    "Description": "Rock music inspired by punk rock and incorporating electronic and experimental elements",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Ska",
+    "Origin Year": "1950s",
+    "Description": "Precursor to reggae, characterized by a walking bass line accented with rhythms on the offbeat",
+    "Popular in Country": "Jamaica"
+  },
+  {
+    "Genre": "Bossa Nova",
+    "Origin Year": "1950s",
+    "Description": "Brazilian music genre derived from samba with jazz harmonies",
+    "Popular in Country": "Brazil"
+  },
+  {
+    "Genre": "Trap",
+    "Origin Year": "2000s",
+    "Description": "Hip hop subgenre characterized by synthesized drums and dark, atmospheric sounds",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Synthpop",
+    "Origin Year": "1970s",
+    "Description": "Subgenre of new wave music featuring the synthesizer as the dominant musical instrument",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Opera",
+    "Origin Year": "16th century",
+    "Description": "Dramatic work in one or more acts set to music for singers and instrumentalists",
+    "Popular in Country": "Italy"
+  },
+  {
+    "Genre": "Bluegrass",
+    "Origin Year": "1940s",
+    "Description": "Form of American roots music characterized by acoustic stringed instruments",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Psychedelic Rock",
+    "Origin Year": "1960s",
+    "Description": "Rock music intended to enhance and reflect the mind-altering experiences of psychedelic drugs",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Grime",
+    "Origin Year": "Early 2000s",
+    "Description": "Electronic dance music that emerged from UK garage and jungle",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Afrobeats",
+    "Origin Year": "2000s",
+    "Description": "West African pop music blending various indigenous African music styles",
+    "Popular in Country": "Nigeria"
+  },
+  {
+    "Genre": "Motown",
+    "Origin Year": "1960s",
+    "Description": "Soul music with pop influences produced by Motown Records",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Samba",
+    "Origin Year": "1910s",
+    "Description": "Brazilian music and dance style with African rhythms",
+    "Popular in Country": "Brazil"
+  },
+  {
+    "Genre": "Flamenco",
+    "Origin Year": "18th century",
+    "Description": "Andalusian music and dance characterized by hand clapping and intense emotions",
+    "Popular in Country": "Spain"
+  },
+  {
+    "Genre": "Bollywood",
+    "Origin Year": "1960s",
+    "Description": "Popular music from Indian cinema, often featuring elaborate production",
+    "Popular in Country": "India"
+  },
+  {
+    "Genre": "Swing",
+    "Origin Year": "1930s",
+    "Description": "Jazz subgenre characterized by a 'swinging' rhythm",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Glam Rock",
+    "Origin Year": "1970s",
+    "Description": "Rock music characterized by outrageous costumes, makeup, and hairstyles",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Prog Rock",
+    "Origin Year": "1960s",
+    "Description": "Rock music incorporating elements of classical music and jazz",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Garage Rock",
+    "Origin Year": "1960s",
+    "Description": "Raw and energetic rock subgenre",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Shoegaze",
+    "Origin Year": "1980s",
+    "Description": "Subgenre of indie and alternative rock characterized by distorted guitars and indistinct vocals",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Post-Rock",
+    "Origin Year": "1990s",
+    "Description": "Experimental rock characterized by use of rock instrumentation for non-rock purposes",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Cumbia",
+    "Origin Year": "1940s",
+    "Description": "Colombian folk music and dance style",
+    "Popular in Country": "Colombia"
+  },
+  {
+    "Genre": "Surf Rock",
+    "Origin Year": "1960s",
+    "Description": "Rock music associated with surf culture, featuring electric guitars with heavy reverb",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Zydeco",
+    "Origin Year": "Early 20th century",
+    "Description": "Music genre blending blues and rhythm and blues from southwest Louisiana",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Noise Rock",
+    "Origin Year": "1980s",
+    "Description": "Rock music that emphasizes dissonance and noise manipulation",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Vaporwave",
+    "Origin Year": "2010s",
+    "Description": "Electronic music genre and art movement characterized by a fascination with retro cultural aesthetics",
+    "Popular in Country": "Internet"
+  },
+  {
+    "Genre": "Boogaloo",
+    "Origin Year": "1960s",
+    "Description": "Latin music and dance style blending mambo and soul",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Krautrock",
+    "Origin Year": "1960s",
+    "Description": "Experimental rock music that developed in West Germany",
+    "Popular in Country": "Germany"
+  },
+  {
+    "Genre": "Baroque",
+    "Origin Year": "1600-1750",
+    "Description": "Classical music characterized by ornate, grandiose style",
+    "Popular in Country": "Europe"
+  },
+  {
+    "Genre": "Emo",
+    "Origin Year": "1980s",
+    "Description": "Emotionally charged punk rock subgenre",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Industrial",
+    "Origin Year": "1970s",
+    "Description": "Harsh, experimental electronic music often using mechanical sounds",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Nu Metal",
+    "Origin Year": "1990s",
+    "Description": "Heavy metal subgenre incorporating elements of other genres like hip hop and grunge",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Britpop",
+    "Origin Year": "1990s",
+    "Description": "British alternative rock movement characterized by guitar pop reminiscent of the 1960s",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Eurodance",
+    "Origin Year": "1990s",
+    "Description": "European dance music characterized by synthesized melodies and vocals",
+    "Popular in Country": "Europe"
+  },
+  {
+    "Genre": "Bebop",
+    "Origin Year": "1940s",
+    "Description": "Jazz subgenre characterized by fast tempos and improvisation based on harmonic structure",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Rockabilly",
+    "Origin Year": "1950s",
+    "Description": "One of the earliest styles of rock and roll music, blending Western musical styles with rhythm and blues",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Gregorian Chant",
+    "Origin Year": "6th century",
+    "Description": "Monophonic, unaccompanied form of sacred music in Western Christianity",
+    "Popular in Country": "Vatican City"
+  },
+  {
+    "Genre": "Breakbeat",
+    "Origin Year": "1970s",
+    "Description": "Electronic music genre characterized by the use of sampled rhythms",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Acid House",
+    "Origin Year": "1980s",
+    "Description": "Subgenre of house music developed using Roland TB-303 electronic synthesizer-sequencer",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Ragtime",
+    "Origin Year": "1890s",
+    "Description": "Musical style characterized by a syncopated melodic line and regularly accented accompaniment",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Bossa Nova",
+    "Origin Year": "1950s",
+    "Description": "Brazilian music genre derived from samba with jazz harmonies",
+    "Popular in Country": "Brazil"
+  },
+  {
+    "Genre": "Drone",
+    "Origin Year": "1960s",
+    "Description": "Minimalist music style emphasizing sustained tones or repetition",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Dancehall",
+    "Origin Year": "1970s",
+    "Description": "Jamaican popular music that originated as a more sparse version of reggae",
+    "Popular in Country": "Jamaica"
+  },
+  {
+    "Genre": "Electronica",
+    "Origin Year": "1990s",
+    "Description": "Broad range of contemporary electronic music designed for a wide range of uses",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Drum and Bass",
+    "Origin Year": "1990s",
+    "Description": "Electronic music genre characterized by fast breakbeats and heavy bass lines",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Hardcore Punk",
+    "Origin Year": "1980s",
+    "Description": "Faster and more aggressive derivative of punk rock",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Doo-wop",
+    "Origin Year": "1940s",
+    "Description": "Vocal group harmony style of rhythm and blues and rock and roll",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Goa Trance",
+    "Origin Year": "1990s",
+    "Description": "Electronic music style that originated in Goa, India",
+    "Popular in Country": "India"
+  },
+  {
+    "Genre": "Tango",
+    "Origin Year": "1880s",
+    "Description": "Partner dance and music genre originating at the Río de la Plata",
+    "Popular in Country": "Argentina"
+  },
+  {
+    "Genre": "Chiptune",
+    "Origin Year": "1980s",
+    "Description": "Electronic music created using the sound chips of vintage computers and gaming consoles",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Conscious Hip Hop",
+    "Origin Year": "1980s",
+    "Description": "Hip hop music focusing on social issues and political commentary",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Gangsta Rap",
+    "Origin Year": "1980s",
+    "Description": "Hip hop music characterized by themes and content from urban crime and gang lifestyle",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Twee Pop",
+    "Origin Year": "1980s",
+    "Description": "Indie pop subgenre characterized by childlike sweetness and simplicity",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Afrobeat",
+    "Origin Year": "1960s",
+    "Description": "Music genre combining West African musical styles with American funk and jazz",
+    "Popular in Country": "Nigeria"
+  },
+  {
+    "Genre": "Math Rock",
+    "Origin Year": "1980s",
+    "Description": "Rock music characterized by complex rhythms and time signatures",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Reggaeton",
+    "Origin Year": "1990s",
+    "Description": "Music style blending Latin rhythms, Caribbean music, and hip hop",
+    "Popular in Country": "Puerto Rico"
+  },
+  {
+    "Genre": "Mariachi",
+    "Origin Year": "19th century",
+    "Description": "Traditional Mexican folk music featuring stringed instruments and trumpets",
+    "Popular in Country": "Mexico"
+  },
+  {
+    "Genre": "Qawwali",
+    "Origin Year": "13th century",
+    "Description": "Form of Sufi Islamic devotional singing originating from the Indian subcontinent",
+    "Popular in Country": "Pakistan"
+  },
+  {
+    "Genre": "Grindcore",
+    "Origin Year": "1980s",
+    "Description": "Extreme fusion of heavy metal and hardcore punk",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Downtempo",
+    "Origin Year": "1990s",
+    "Description": "Electronic music style similar to ambient music but with a beat",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Worldbeat",
+    "Origin Year": "1980s",
+    "Description": "Popular music characterized by the use of indigenous music styles with added Western pop",
+    "Popular in Country": "Global"
+  },
+  {
+    "Genre": "Ghazal",
+    "Origin Year": "10th century",
+    "Description": "Poetic form consisting of rhyming couplets and a refrain, set to music",
+    "Popular in Country": "India/Pakistan"
+  },
+  {
+    "Genre": "Vocaloid",
+    "Origin Year": "2000s",
+    "Description": "Music featuring synthesized vocals created using voice synthesizer software",
+    "Popular in Country": "Japan"
+  },
+  {
+    "Genre": "Lowercase",
+    "Origin Year": "1990s",
+    "Description": "Extreme form of ambient minimalism relying on quiet and unobtrusive sounds",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Smooth Jazz",
+    "Origin Year": "1970s",
+    "Description": "Jazz style incorporating elements of R&B, funk, and pop",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Acid Jazz",
+    "Origin Year": "1980s",
+    "Description": "Music genre combining elements of jazz, funk, soul, and disco",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Raga Rock",
+    "Origin Year": "1960s",
+    "Description": "Rock music incorporating classical Indian musical elements",
+    "Popular in Country": "United Kingdom/India"
+  },
+  {
+    "Genre": "Tropicália",
+    "Origin Year": "1960s",
+    "Description": "Brazilian artistic movement blending traditional Brazilian culture with foreign influences",
+    "Popular in Country": "Brazil"
+  },
+  {
+    "Genre": "Yacht Rock",
+    "Origin Year": "1970s-1980s",
+    "Description": "Soft rock characterized by smooth sounds and high production value",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "Neue Deutsche Welle",
+    "Origin Year": "1980s",
+    "Description": "New wave music movement in West Germany and Austria",
+    "Popular in Country": "Germany"
+  },
+  {
+    "Genre": "Goregrind",
+    "Origin Year": "1980s",
+    "Description": "Extreme subgenre of grindcore focusing on gore-based lyrics and imagery",
+    "Popular in Country": "United Kingdom"
+  },
+  {
+    "Genre": "Chopped and Screwed",
+    "Origin Year": "1990s",
+    "Description": "Hip hop technique of slowing down the tempo and skipping beats",
+    "Popular in Country": "United States"
+  },
+  {
+    "Genre": "City Pop",
+    "Origin Year": "1970s-1980s",
+    "Description": "Japanese pop music subgenre influenced by American soft rock and R&B",
+    "Popular in Country": "Japan"
+  }
+]

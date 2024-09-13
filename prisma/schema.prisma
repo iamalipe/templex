@@ -13,7 +13,6 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-
 model User {
   id            String          @id @default(auto()) @map("_id") @db.ObjectId
   name          String?
@@ -85,4 +84,88 @@ model Authenticator {
   user User @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@unique([userId, credentialID])
+}
+
+model Genre {
+  id               String  @id @default(auto()) @map("_id") @db.ObjectId
+  name             String
+  originYear       String?
+  description      String?
+  popularInCountry String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  songsIDs String[] @db.ObjectId
+  songs    Song[]   @relation(fields: [songsIDs], references: [id])
+}
+
+model Artist {
+  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  fullName     String
+  titleName    String
+  email        String   @unique
+  profileImage String
+  bio          String
+  nationality  String
+  dob          DateTime
+  phoneNo      String
+  specialty    String
+
+  songsIDs String[] @db.ObjectId
+  songs    Song[]   @relation(fields: [songsIDs], references: [id])
+  albums   Album[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Song {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  titleImage  String
+  releaseDate DateTime
+  duration    Int // duration in seconds
+
+  artistIDs String[] @db.ObjectId
+  artists   Artist[] @relation(fields: [artistIDs], references: [id])
+
+  genreIDs String[] @db.ObjectId
+  genres   Genre[]  @relation(fields: [genreIDs], references: [id])
+
+  albumId String @db.ObjectId
+  albums  Album  @relation(fields: [albumId], references: [id], onDelete: Cascade)
+
+  playlistIDs String[]   @db.ObjectId
+  playlists   Playlist[] @relation(fields: [playlistIDs], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Album {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  titleImage  String
+  releaseDate DateTime
+
+  artistId String @db.ObjectId
+  artist   Artist @relation(fields: [artistId], references: [id], onDelete: Cascade)
+
+  songs Song[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Playlist {
+  id          String  @id @default(auto()) @map("_id") @db.ObjectId
+  name        String
+  description String?
+
+  songIDs String[] @db.ObjectId
+  songs   Song[]   @relation(fields: [songIDs], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
